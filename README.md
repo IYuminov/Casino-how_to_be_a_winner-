@@ -4,3 +4,4 @@
 <br>
 <br/>
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/casino_plot.png?raw=true" height="400"/></h1>
+Выиграть получится только если увеличить количество выигрышных вариантов, то есть заменить рулетку.
