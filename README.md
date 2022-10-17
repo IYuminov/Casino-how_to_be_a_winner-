@@ -1,3 +1,3 @@
 # Как быть победителем в казино? Возможно ли это?
 Исследую с помощью простейшего набора инструментов.
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/casino_plot.png?raw=true" height="32"/></h1>
