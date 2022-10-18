@@ -23,7 +23,7 @@
 </h3>
 Классический вариант игры - то как играют в казино (18 черных ячеек, 18 красных и 1 зеленая - zero)
 <br>
-Исход стратегии 1:
+Исход 1:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="80"/>
 
 Осталось 11.000 у.е. (!!!)
@@ -33,7 +33,7 @@
 </h3>
 Меняю правила игры - 18 черных ячеек, 18 красных, без zero.
 <br>
-Исход стратегии 2:
+Исход 2:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/II_strategy.png?raw=true" height="80"/>
 
 Осталось около 818.000 у.е.
@@ -43,7 +43,7 @@
 </h3>
 Новые правила игры - 18 черных ячеек, 17 красных, без zero.
 <br>
-Исход стратегии 3:
+Исход 3:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/III_strategy.png?raw=true" height="80"/>
 
 Выигрыш составил около 1.600.000 у.е.
