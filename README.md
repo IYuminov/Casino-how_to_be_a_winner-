@@ -11,6 +11,7 @@
 - В роли рулетки выступал randint из библиотеки random.
 <br/>
 Стратегия 1: классический вариант игры - то как и играют в казино (18 черных ячеек, 18 красных и 1 зеленая - zero)
+
 Исход стратегии 1:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="80"/>
 <br/>
