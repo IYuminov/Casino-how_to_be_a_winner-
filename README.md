@@ -24,12 +24,18 @@
 Исход стратегии 1:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="80"/>
 <br/>
-Стратегия 2: Меняю правила игры - 18 черных ячеек, 18 красных, без zero
+<h3>
+Стратегия 2:
+</h3>
+Меняю правила игры - 18 черных ячеек, 18 красных, без zero
 <br>
 Исход стратегии 2:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/II_strategy.png?raw=true" height="80"/>
 <br/>
-Стратегия 3: Новые правила игры - 18 черных ячеек, 17 красных, без zero
+<h3>
+Стратегия 3:
+</h3>
+Новые правила игры - 18 черных ячеек, 17 красных, без zero
 <br>
 Исход стратегии 3:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/III_strategy.png?raw=true" height="80"/>
