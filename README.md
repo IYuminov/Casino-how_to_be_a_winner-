@@ -14,7 +14,7 @@
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="80"/>
 <br/>
 Исход стратегии 2:
-<img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="80"/>
+<img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/II_strategy.png?raw=true" height="80"/>
 <br/>
 Исход стратегии 3:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="80"/>
