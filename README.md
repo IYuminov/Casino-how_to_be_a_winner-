@@ -3,9 +3,11 @@
 Оказывается, что бы выиграть в казино, нужно изменить правила игры.
 <br>
 <br/>
-<img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/casino_plot.png?raw=true" height="400"/></h1>
+<img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/casino_plot.png?raw=true" height="400"/>
 <br>
 <br/>
 Выиграть или выйти в ноль получится только если увеличить количество выигрышных вариантов, то есть заменить рулетку.
 В ином случае рулетка неуклонно будет уменьшать размер кошелька. 
 - В роли рулетки выступал randint из библиотеки random.
+<img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="400"/></h1>
+
