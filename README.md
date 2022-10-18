@@ -10,5 +10,6 @@
 В ином случае рулетка неуклонно будет уменьшать размер кошелька. 
 - В роли рулетки выступал randint из библиотеки random.
 <br/>
+Исход I стратегии:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="100"/></h1>
 
