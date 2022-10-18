@@ -26,7 +26,7 @@
 Исход 1:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/I_strategy.png?raw=true" height="80"/>
 
-Осталось 11.000 у.е. (!!!)
+На счету осталось 11.000 у.е. (!!!)
 <br/>
 <h3>
 Стратегия 2:
@@ -36,7 +36,7 @@
 Исход 2:
 <img src="https://github.com/IYuminov/Casino_to_be_a_winner/blob/main/II_strategy.png?raw=true" height="80"/>
 
-Осталось около 818.000 у.е.
+На счету осталось около 818.000 у.е.
 <br/>
 <h3>
 Стратегия 3:
